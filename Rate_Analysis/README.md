@@ -46,6 +46,9 @@ Se busca analizar el comportamiento de los clientes y determinar qué tarifa de 
 ## Libraries used:
 
 pandas
+
 Matplotlib
+
 numpy
+
 scipy.stats

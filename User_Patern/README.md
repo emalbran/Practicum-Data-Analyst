@@ -16,14 +16,18 @@
 
 La idea es identificar patrones que determinen si un juego tiene éxito o no.
 Crearemos un perfil de usuarios por regiones (Norte America, Europa y Japón), analizaremos e identificaremos patrones tanto en consolas como videojuegos y responderemos las siguientes hípotesis:
-1- Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son las mismas.
-2- Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes.
+- Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son las mismas.
+- Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes.
 
 
 ## Libraries used:
 
-pandas
+Pandas
+
 Matplotlib
+
 Numpy
+
 Scipy.stats
+
 Seaborn

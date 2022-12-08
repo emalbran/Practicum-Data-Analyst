@@ -3,6 +3,7 @@ Estos son proyectos de Data Analyst completados durante mi curso de analista de 
 
 | Projecto               | Descripción                                                                                 | Librerias                      |
 |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
+|[Priorización de hipótesis y Analizar un Test A/B](hypothesis_prioritization)|Comparación de hipótesis y revisión de un test A/B.|*pandas*, *matplotlib*, *datetime*, *numpy*, *scipy.stats*|
 |[Optimización de los gastos de marketing - Y.Afisha](costs_otimization)|Análisis de producto, ventas y marketing.|*pandas*, *matplotlib*, *Seaborn*, *numpy*, *scipy.stats*|
 |[Preferencias e impacto de factores externos - Zuber](External_Paterns)|Detección de preferencias e impacto de factores externos para nueva compañía de taxis.|*pandas*, *matplotlib*, *numpy*, *scipy.stats*|
 |[Detección de patrones y comportamientos - Ice](User_Patern)|Detección de comportamientos y patrones para campaña de videojuegos.|*pandas*, *matplotlib*, *numpy*,*seaborn*, *scipy.stats*|

@@ -3,6 +3,7 @@ Estos son proyectos de Data Analyst completados durante mi curso de analista de 
 
 | Projecto               | Descripción                                                                                 | Librerias                      |
 |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
+|[Estudio de comportamiento de usuarios](AAB_test)|Ánalisis del comportamiento de los usuarios para la aplicación de la compañía.|*pandas*, *numpy*, *matplotlib*, *seaborn*, *plotly*, *scipy*, *math*|
 |[Estudio de mercado de restaurantes en LA](market_study)|Ánalisis de datos y presentación de los restaurantes en Los Ángeles.|*pandas*, *matplotlib*, *seaborn*, *numpy*, *re*|
 |[Priorización de hipótesis y Analizar un Test A/B](hypothesis_prioritization)|Comparación de hipótesis y revisión de un test A/B.|*pandas*, *matplotlib*, *datetime*, *numpy*, *scipy.stats*|
 |[Optimización de los gastos de marketing - Y.Afisha](costs_otimization)|Análisis de producto, ventas y marketing.|*pandas*, *matplotlib*, *Seaborn*, *numpy*, *scipy.stats*|
